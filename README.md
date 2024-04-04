@@ -21,4 +21,8 @@
 [![Waka Readme](https://github.com/fracado/whoami/actions/workflows/waka-readme.yml/badge.svg)](https://github.com/fracado/whoami/actions/workflows/waka-readme.yml)
 <!--START_SECTION:waka-->
 
+```txt
+JavaScript   6 mins          █████████████████████████   100.00 %
+```
+
 <!--END_SECTION:waka-->
