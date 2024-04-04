@@ -16,6 +16,9 @@
 - 🌈: **queer** and **neurodivergent**
 
 
+ <br> 
+## 📊 Stats
+[![Waka Readme](https://github.com/fracado/whoami/actions/workflows/waka-readme.yml/badge.svg)](https://github.com/fracado/whoami/actions/workflows/waka-readme.yml)
 <!--START_SECTION:waka-->
 
 <!--END_SECTION:waka-->
