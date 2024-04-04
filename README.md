@@ -14,3 +14,8 @@
 - 🚴: **spinning** for cardio
 - 🌱: **vegan** and **animal rights** advocate
 - 🌈: **queer** and **neurodivergent**
+
+
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
