@@ -5,7 +5,9 @@
 
  <br> 
 ## 🤖 Technologies
-- 
+
+![image](https://github.com/fracado/whoami/assets/44749480/5db79f8a-0f57-4e3b-9409-7d79f770df8c)
+
 
  <br> 
 ## 💖 What else about me
