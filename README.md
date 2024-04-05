@@ -6,7 +6,7 @@
  <br> 
 ## 🤖 Technologies
 
-![image](https://github.com/fracado/whoami/assets/44749480/5db79f8a-0f57-4e3b-9409-7d79f770df8c)
+![image](https://github.com/fracado/whoami/assets/44749480/49ab21a1-6334-4439-acb3-9ce6c536eec7)
 
 
  <br> 
