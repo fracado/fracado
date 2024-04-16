@@ -12,3 +12,8 @@
 - 🚴: **spinning** for ~~cardio~~ fun
 - 🌱: **vegan** and **animal rights** advocate
 - 🌈: **queer** and **neurodivergent**
+
+
+## 📊 Stats
+<!--WakaTime-Start-->
+<!--WakaTime-End-->
