@@ -11,6 +11,7 @@ env:
     WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
     GH_TOKEN: ${{ secrets.GH_TOKEN  }}
     THEME: "block-black"
+    SHOW_TOTAL: false
     
 jobs:
   update-readme:
