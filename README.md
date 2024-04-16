@@ -15,6 +15,7 @@
 
 
 ## 📊 Stats
-<!--WakaTime-Start-->
-<pre><h2>Last 7 Days</h2>Vue.js            28 hrs 7 mins ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜  53.99 %</br>JavaScript       21 hrs 54 mins ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜  42.07 %</br>Markdown                59 mins ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   1.89 %</br>textmate                35 mins ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   1.14 %</br>Svelte                  13 mins ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   0.43 %</br><h2>All Time</h2><strong>Total Time Coded:   </strong>65 hrs 52 mins</br><strong>Timespan:           </strong>12 days</br><strong>Daily average:      </strong>4 hr(s) 56 min(s)</pre>
-<!--WakaTime-End-->
+<img
+  src="https://github.com/fracado/fracado/blob/main/images/stat.svg"
+  alt="WakaTime Stats"
+/>
