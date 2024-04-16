@@ -7,14 +7,15 @@ on:
     # runs every hour
     - cron: "0 * * * *"
 
+env:
+    WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+    GH_TOKEN: ${{ secrets.GH_TOKEN  }}
+    THEME: "block-black"
+    
 jobs:
   update-readme:
     name: WakaReadme DevMetrics
     runs-on: ubuntu-latest
     steps:
-      - uses: athul/waka-readme@master # this action name
-        with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }} # required
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          SHOW_OS: "True"
-          SHOW_EDITORS: "True"
+        - uses: actions/checkout@v3
+        - uses: NickRTR/WakaTime-Readme@main
