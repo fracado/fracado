@@ -1,12 +1,12 @@
 ## 🧑‍💻 What I do
-- ✨: I'm a **Frontend Engineer**
+- 🧮: I'm a **Frontend Developer**
 - 💡: always interested in **learning** new things
 - 🫂: happy to **collaborate** with others
 <br/><br/>
 ## 🤖 Technologies
 ![image](https://github.com/fracado/whoami/assets/44749480/49ab21a1-6334-4439-acb3-9ce6c536eec7)
 
-## 💖 What else about me
+## ✨ What else about me
 - 💃: **Balboa** (Swing) dancer
 - 🏃: **running** for fun
 - 🚴: **spinning** for ~~cardio~~ fun
