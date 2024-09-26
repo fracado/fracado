@@ -8,10 +8,8 @@
 
 ## ✨ What else about me
 - 💃: Balboa (Swing) dancer
-- 🏃: running for fun
-- 🚴: spinning for ~~cardio~~ fun
+- 🏃: running for ~~cardio~~ fun
 - 🌱: vegan and animal rights advocate
-- 🌈: queer and neurodivergent
 <br/><br/>
 ## 📊 Stats
 <img
